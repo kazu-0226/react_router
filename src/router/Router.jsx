@@ -2,7 +2,6 @@ import { Switch, Route } from "react-router-dom";
 import { Home } from "../Home";
 import { Page2 } from "../Page2";
 import { Page1Routes } from "./Page1Route";
-console.log(Page1Routes);
 
 export const Router = () => {
   return (
